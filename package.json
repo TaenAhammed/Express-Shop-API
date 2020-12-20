@@ -1,0 +1,26 @@
+{
+    "name": "Express-Shop-API",
+    "version": "1.0.0",
+    "description": "Express-Shop-API is an e-commerce application's api built on top of node, express &amp; mongodb.",
+    "main": "index.js",
+    "dependencies": {
+        "debug": "^4.3.1",
+        "express": "^4.17.1",
+        "pug": "^3.0.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Cluenote/Express-Shop-API.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Cluenote/Express-Shop-API/issues"
+    },
+    "homepage": "https://github.com/Cluenote/Express-Shop-API#readme"
+}
